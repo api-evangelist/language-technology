@@ -26,7 +26,7 @@ x-status: exited-defunct
 x-status-note: Listed as "Language Technology, Inc. *" (exited investment) on Battery
   Ventures' list-of-all-companies. No live website (languagetechnology.com refuses
   connections), no sector, and no developer/API surface found. No API artifacts derivable.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
